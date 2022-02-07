@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/scott-kinzer.github.io/TheMovieDB/static/css/main.748cb545.css",
+    "main.js": "/scott-kinzer.github.io/TheMovieDB/static/js/main.b4e40e2e.js",
+    "index.html": "/scott-kinzer.github.io/TheMovieDB/index.html",
+    "main.748cb545.css.map": "/scott-kinzer.github.io/TheMovieDB/static/css/main.748cb545.css.map",
+    "main.b4e40e2e.js.map": "/scott-kinzer.github.io/TheMovieDB/static/js/main.b4e40e2e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.748cb545.css",
+    "static/js/main.b4e40e2e.js"
+  ]
+}
